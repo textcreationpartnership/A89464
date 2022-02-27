@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches delivered, the one by the Earle of Manchestr [sic] and the other by Iohn Pym Esquire, in Guild-Hall on fryday the 13. of Ianuary 1642</title>
+            <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89464</idno>
+            <idno type="STC">Wing M400bA</idno>
+            <idno type="STC">ESTC R231082</idno>
+            <idno type="EEBO-CITATION">99896658</idno>
+            <idno type="PROQUEST">99896658</idno>
+            <idno type="VID">135166</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135166)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2431:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches delivered, the one by the Earle of Manchestr [sic] and the other by Iohn Pym Esquire, in Guild-Hall on fryday the 13. of Ianuary 1642</title>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>Pp. [2], 13-23, [1]   </extent>
+               <publicationStmt>
+                  <publisher>printed for Peter Cole,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date given according to Lady Day dating.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2431 lacks all before page 13 except title page.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_bookplate">
+            <pb facs="tcp:135166:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>
+               <figure>
+                  <p>EX LIBRIS<lb/>
+A.W. FOX.</p>
+                  <q xml:lang="lat">NEC TENUES GRANDIA.</q>
+                  <figDesc>modern bookplate</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:135166:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:135166:2"/>
+            <!-- PDF PAGE 42 -->
+            <pb facs="tcp:135166:2"/>
+            <!-- PDF PAGE 42 -->
+            <p>TWO SPEECHES DELIVERED, THE ONE BY THE EARLE <hi>OF MANCHESTR</hi> AND THE OTHER BY <hi>IOHN PYM</hi> Eſquire, In Guild-Hall on fryday the 13. of IANUARY 1642.</p>
+            <p>LONDON, Printed for PETER COLE, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135166:3"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="13" facs="tcp:135166:3"/>
+            <!-- PDF PAGE 43 -->
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <head>A SPEECH Delivered by the Earle OF <hi>MANCHESTER.</hi>
+                        </head>
+                        <opener>
+                           <salute>
+                              <seg rend="decorInit">M</seg>Y Lord Major and Gentlemen you of the City of <hi>London,</hi>
+                           </salute>
+                        </opener>
+                        <p>this Aſſembly can ne<g ref="char:EOLhyphen"/>ver bee looked upon by any Members of both Houſes of Parliament; but there muſt bee ſome offering of gra<g ref="char:EOLhyphen"/>titude made to you, both of thankes and acknowledgments for your former large-hearted ex<g ref="char:EOLhyphen"/>preſſions, both of affection and care for the preſervati<g ref="char:EOLhyphen"/>on both of the Parliament and Kingdome: The occaſi<g ref="char:EOLhyphen"/>on why my Lords, and theſe Gentlemen of the Houſe of Commons are come hither is this, They have read an Anſwer to an humble Petition of the Lord Major and Common-counſell and Citizens of <hi>London</hi> to His Maje<g ref="char:EOLhyphen"/>ſty;
+<pb n="14" facs="tcp:135166:4"/>
+                           <!-- PDF PAGE 44 -->In which Anſwer, They finde many wounding aſ<g ref="char:EOLhyphen"/>perſions caſt upon perſons of very eminent Authority in your City, and upon others of very great fidelity and truſt among you; this Anſwer they doe finde as it is prin<g ref="char:EOLhyphen"/>ted to agree with that which the Gentleman from His Majeſtie hath here read; And they owning themſelves equally intereſſed (in all things that concerne you) with you, have commanded this Gentleman to make ſome ob<g ref="char:EOLhyphen"/>ſervations by way of vindication both of the proceedings of both Houſes of Parliament, and of the proceedings of the City, with this aſſurance that they will never diſſert you, but will ſtand by you with their lives and fortunes for the preſervation of the City in generall, and thoſe per<g ref="char:EOLhyphen"/>ſons in particular, who have beene faithfull, and deſerved well, both of the Parliament and Kingdome, and they will purſue all meanes both with their lives and fortunes, that may be for the preſervation of this City, and for the pro<g ref="char:EOLhyphen"/>curing of ſafety, happineſſe, and peace to the whole King<g ref="char:EOLhyphen"/>dome.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Speech of this Noble Lord, being entertained with loud expreſsions of joy and thankfulneſſe by the Commons; and after ſome time of ſilence being made, <hi>Mr. Pym</hi> that worthy Mem<g ref="char:EOLhyphen"/>ber of the Houſe of Commons and Patriot of his Countrey, gave the ſenſe of both Houſes upon the ſeverall paſſages of His Ma<g ref="char:EOLhyphen"/>jeſties Anſwer; expreſsing it in the next Page following.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <pb n="15" facs="tcp:135166:4"/>
+                        <!-- PDF PAGE 44 -->
+                        <head>A SPEECH DELIVERED BY <hi>JOHN PYM</hi> Eſquire.</head>
+                        <opener>
+                           <salute>
+                              <seg rend="decorInit">M</seg>Y Lord Major, and you worthy Citizens of this noble and famous City of <hi>London,</hi>
+                           </salute>
+                        </opener>
+                        <p>I am commanded by the Lords and Com<g ref="char:EOLhyphen"/>mons, to let you know, that in this An<g ref="char:EOLhyphen"/>ſwer, which hath beene publiſhed to you, they doe obſerve many things of great a<g ref="char:EOLhyphen"/>ſperſion upon the proceedings of Parliament very ſcanda<g ref="char:EOLhyphen"/>lous and injurious to many particular Members of this City, whereupon they thinke that it becomes them, both in tenderneſſe of their owne honour, and reſpect to you, to take away all thoſe aſperſions, and to let you know the truth of their proceedings, which have beene full of ho<g ref="char:EOLhyphen"/>nour and juſtice, as they ſtand in relation to their owne duty, and full of humility, and obedience towards His Majeſty, and of care for the common good, and ſo ſhall e<g ref="char:EOLhyphen"/>ver be; And they have commanded me to let you know the true Anſwer to moſt of thoſe things that are imputed either to the Parliament, or to the City, by obſerving ſome particulars of This booke which hath beene read to
+<pb n="16" facs="tcp:135166:5"/>
+                           <!-- PDF PAGE 45 -->you and to let you know the proceedings in their owne native condition, cleere from thoſe miſrepreſentations which make them appeare in a qualitie much different from the truth: which before I enter into I am to declare as the Senſe of both Houſes that your petition was ſo full of Loyaltie, Humilitie, and Obedience, that you might well have expected an Anſwer of another kinde.</p>
+                        <p>The firſt Obſervation I am to make to you is this, that it is ſaid here, That <hi>His Majeſty was enforc'd by tumults to leave the Parliament, and to goe from White-hall, and to withdraw himſelfe into thoſe courſes, which now he hath taken.</hi>
+                        </p>
+                        <p>In Anſwer hereunto, I am commanded to tell you, that there was no occaſion given by any tumults riſing out of this City or the Suburbs which might juſtly cauſe His Majeſties departure, and you may very well remember, that after His violent comming to the Commons Houſe of Parliament in that unuſuall and unheard of manner (which was the beginning of theſe unhappy differences) that the very next day His Majeſty came into the City without any Guard, that He was preſent in the Common-councell, din'd at the Sheriffes, and returned back againe, with manifold evidences of fidelity on the part of the Ci<g ref="char:EOLhyphen"/>ty, and without any ſuch expreſſions as were unbeſeeming the Majeſty of a King, or the duty of Subjects; that He reſided divers dayes at White-hall, and afterward at Hampton-court, Windſor, and places adjoyning, with ſmall Forces about him, and yet never any attempt made which might give Him any apprehenſions of feare; by all which it is manifeſt, that this is an unjuſt aſperſion caſt upon this City, that any tumultuous carriage of yours, was your occaſion of His Majeſties leaving the Parlia<g ref="char:EOLhyphen"/>ment and withdrawing himſelfe to remoter parts.</p>
+                        <p>
+                           <pb n="17" facs="tcp:135166:5"/>
+                           <!-- PDF PAGE 45 -->
+It is affirmed, <hi>that the Government of your City hath been mannaged by a few deſperate perſons, and that they do exerciſe an arbitrary power.</hi>] In anſwer to which the two Houſes of Parliament gives you this teſtimony, that you have in moſt of the great occaſions concerning the Go<g ref="char:EOLhyphen"/>vernment of the City, followed their direction, and that direction which they have given, and you have executed, they muſt &amp; will maintain to be ſuch as ſtands with their honor in giving it, and your truſt and fidelity in the per<g ref="char:EOLhyphen"/>formance of it.</p>
+                        <p>It is objected in the third place; <hi>That Contributions have been publickly made, for the maintenance of that Army which did joyne Battell with the King, and did by all the means that Treaſon and Malice could ſuggest, endeavour to take away His Life, and deſtroy His Iſſue.</hi>] To this I am com<g ref="char:EOLhyphen"/>manded to ſay, That the deſign of bringing up the Eng<g ref="char:EOLhyphen"/>liſh Armies, the gathering together of the Cavaliers a<g ref="char:EOLhyphen"/>bout <hi>White-hall,</hi> the violent coming to the Houſe of Commons, the Kings going into the North, and rai<g ref="char:EOLhyphen"/>ſing Armes there, are cleer evidences that violence was firſt intended, and divers practiſes were made againſt the Parliament, before they took any courſe, or made a<g ref="char:EOLhyphen"/>ny preparation to take up arms for their defence; for the danger of His Majeſties perſon they were ſorry for it, and did by divers humble Petitions labour to prevent it; And as touching the royall iſſue, they have ſufficiently declar'd to the world, their good affections towards them, by the care they have taken both for the ſafety and maintenance of thoſe who are left here.</p>
+                        <p>It is further expreſſ'd in this Anſwer; <hi>That the King demands the Lord Major, Maſter Alderman</hi> Fowke, <hi>Colonell</hi> Ven, <hi>and Colonell</hi> Manwaring, <hi>to be delivered up as guilty of Schiſme and high Treaſon.</hi>] Concerning
+<pb n="18" facs="tcp:135166:6"/>
+                           <!-- PDF PAGE 46 -->which, I am commanded to tell you, as the ſenſe of both Houſes of PARLIAMENT, That this de<g ref="char:EOLhyphen"/>mand is againſt the priviledge of Parliament (two of them being Members of the Commons Houſe) moſt diſh<g ref="char:EOLhyphen"/>honorable to the City, That the Lord Major of <hi>London</hi> ſhould be ſubjected to the violence of every baſe fellow, be aſſaulted, ſeiz'd on, without due proceſſe or War<g ref="char:EOLhyphen"/>rant, which the Law doth afford every private man; and that you ſhould be commanded to deliver up your chief Magiſtrates, and ſuch eminent Members of the City to the Kings pleaſure, only becauſe they have done their du<g ref="char:EOLhyphen"/>ty in adhering to the Parliament, for the defence of the Kingdom, and that it is againſt the rules of juſtice, that any men ſhould be impriſoned upon ſuch a generall charge, when no particulars are proved againſt them; and this you are to take notice of, as the anſwer to thoſe ſcandalls, and to that diſgrace upon my Lord Major, and the other Members of the City.</p>
+                        <p>And I am further to tell you, that there is little cauſe for His Majeſty to make this demand, conſidering that He Himſelf doth by force keep away many accuſed in Parliament, as my Lord <hi>Digby,</hi> and many more impea<g ref="char:EOLhyphen"/>ched of high Treaſon, beſides divers others great Delin<g ref="char:EOLhyphen"/>quents, that ſtand charged there for hainous crimes, all which by force are kept from the due proceedings, and legall triall in Parliament.</p>
+                        <p>It is alleaged in this Anſwer, That <hi>my Lord Maior, and thoſe other perſons named, are countenancers of Browniſts, and Anabaptiſts, and all manner of Sectaries.</hi>] To this I am commanded to ſay, That hereof there is no proof; It doth not appear that they give any ſuch countenance to Sectaries of any kinde whatſoever; and if it did, His Ma<g ref="char:EOLhyphen"/>jeſty hath little reaſon to object it, while notwithſtanding
+<pb n="19" facs="tcp:135166:6"/>
+                           <!-- PDF PAGE 46 -->the profeſſion he hath often made, that he will maintain the Proteſtant reformed Religion, he doth in the mean time raiſe an Army of Papiſts, who by the principles of their Religion are bound, (if power be put into their hands) to deſtroy and utterly to root out the Proteſtants together with the truth which they profeſſe.</p>
+                        <p>It is affirmed, <hi>That mens perſons have been impriſoned, and their houſes plunder'd, becauſe they will not rebell againſt His Majeſty.</hi>] To this I am commanded to declare, that no mens houſes have been plunder'd by any direction of the Parliament, but that they have been very carefull to re<g ref="char:EOLhyphen"/>ſtrain all ſuch violent courſes, ſo far as they were able; and that they have never committed any man, but ſuch men as by due information they conceived to be ſeditious perſons, and like to trouble the peace of the State.</p>
+                        <p>It is objected further; <hi>That the Property of the Subject is deſtroyed by taking away the twentieth part by an Arbitra<g ref="char:EOLhyphen"/>ry power.</hi>] To this they ſay, That that Ordinance it doth not require a twentieth part, but doth limit the Aſſeſſors, that they ſhall not go beyond a twentieth part; and that this is done by a power derived from both houſes of Par<g ref="char:EOLhyphen"/>liament; the Lords who have an hereditarie intereſt in making Laws in this Kingdom, and the Commons who are elected and choſen to repreſent the whole body of the Comminalty, and truſted for the good of the people, when ever they ſee cauſe to charge the Kingdom: And they ſay further, that the ſame Law that did enable the two Houſes of Parliament to raiſe forces to maintain and defend the ſafety of Religion, and of the Kingdom, doth likewiſe enable them to require contributions, whereby thoſe forces may be maintained, or elſe it were a vaine power to raiſe forces, if they had not a power likewiſe to maintain them in that ſervice for which they were raiſed.</p>
+                        <p>
+                           <pb n="20" facs="tcp:135166:7"/>
+                           <!-- PDF PAGE 47 -->
+And to this point I am commanded to adde this fur<g ref="char:EOLhyphen"/>ther anſwer, that there was little reaſon for this to be objected on his Majeſties behalf, when it is well known that from the ſubjects (which are within the power of his army) His Majeſty doth take the full yeerly value of their Lands, and in ſome caſes more that not only particu<g ref="char:EOLhyphen"/>lar houſes, but whole Towns have been plunder'd by command and deſign; and that by Proclamations men are declared to forfeit all their eſtates, becauſe they will not obey Arbitrary Commands, and this is commonly practiſed by His Majeſty, and on his part, and therefore there was little reaſon to charge the Parliament with ſo neceſſary and moderate a contribution as the twentieth part.</p>
+                        <p>It is declared, <hi>That the King expects to be kept from Tu<g ref="char:EOLhyphen"/>mults and Affronts.</hi>] Upon which, I am commanded to obſerve, that His Majeſties expreſſions in His Anſwer tend to the making of a diviſion in this City, and to the raiſing of a party, which may make ſome diſturbance in that orderly government which is now eſtabliſhed, both which will certainly prove equally deſtructive to him and both Houſes of Parliament; and more prejudiciall to his quiet abode here, then any thing that hath ever beene acted by the Houſes of Parliament, or the preſent Go<g ref="char:EOLhyphen"/>vernors of the City.</p>
+                        <p>They obſerve further that in this Anſwer, <hi>His Majeſty doth profeſſe that He will ſeize upon the eſtates of thoſe that ſhall contribute any thing towards the maintenance of the Par<g ref="char:EOLhyphen"/>liaments Army, and will put them out of His protection, and by His Miniſters in forraign States, will take ſuch courſe, that they may be proceeded againſt as enemies; that is, deſtroyed and ſpoiled.</hi>] To which the LORDS and COMMONS do Declare, That this is an exceſſe of rigour and inju<g ref="char:EOLhyphen"/>ſtice
+<pb n="21" facs="tcp:135166:7"/>
+                           <!-- PDF PAGE 47 -->beyond all example, that particular men ſhould loſe their private eſtates here without law or judiciall procee<g ref="char:EOLhyphen"/>ding: And that our Prince who owes protection to the Kingdom, aſwell as to particular perſons, ſhould ſuffer the wealth thereof to be robbed and ſpoiled by forraign States; upon due conſideration whereof, they hope His Majeſty will be induced by better Councell to forbeare the execution, then that by which he hath been perſwa<g ref="char:EOLhyphen"/>ded to publiſh ſuch a Reſolution.</p>
+                        <p>Beſides theſe Obſervations out of the Anſwer, I am to obſerve one out of a narrative that was received from the Common Councell, that the King did Declare that he would ſend ſome meſſengers here to obſerve your car<g ref="char:EOLhyphen"/>riage in the City, and what was done amongſt you, the Parliament have juſt cauſe to doubt, that theſe will be meſſengers of ſedition and trouble, and therefore deſire you to obſerve them and find them out, and that they may know who they are.</p>
+                        <p>I am for a concluſion to commend to your conſide<g ref="char:EOLhyphen"/>rations, that you ſee by the proceedings to which the King is drawn by the ill councell now about Him, that Religion, the whole Kingdom, this glorious City, and the Parliament, are all in great danger, and that this danger cannot be kept off in all likelyhood, but by the Army that is now a foot, and that the Lords and Commons are ſo farre from being frighted by any thing that is in this Anſwer, that they have for themſelves and the Members of both Houſes declared a further con<g ref="char:EOLhyphen"/>tribution towards the maintenance of this Army, and can<g ref="char:EOLhyphen"/>not but hope and deſire, that you that have ſhew'd ſo much good affection in the former neceſſities of the State will be ſenſible of your own, and of the condition of the whole Kingdom, and adde (to that which you have alrea<g ref="char:EOLhyphen"/>die
+<pb n="22" facs="tcp:135166:8"/>
+                           <!-- PDF PAGE 48 -->done) ſome further contribution, whereby this Army may be maintain'd for all your ſafeties.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>At the end of every period of this Speech, the applauſe was ſo great, that he was fain to reſt till ſilence was again made; and at laſt (the Company ready to be diſſolved) after ſome pauſe and conſultation with the Committee of Lords and Commons then preſent, and by their direction (ſilence being made) he cloſed all with the words following:</p>
+            <p>
+               <q>Worthy Citizens, you have underſtood the ſenſe of both Houſes of Parliament, concerning my Lord Major here, and thoſe worthy Members of your City, that are demanded; you have heard the Parliament declare, that they will protect them in that which they have done by direction of both Houſes; and they expect that you ſhould expreſſe it your ſelves likewiſe, that if any violence be of<g ref="char:EOLhyphen"/>fer'd to them, you will ſecure and defend them with your uttermoſt force; and you ſhall alwaies finde, that this pro<g ref="char:EOLhyphen"/>tection of the Parliament ſhall not onely extend to theſe, but to all others that have done any thing by their command.</q>
+            </p>
+            <p>Which words were no ſooner uttered, but the Citizens with one joynt harmony of mindes and voices, gave ſuch an accla<g ref="char:EOLhyphen"/>mation as would have drown'd all the former, if they had been then breathing, which after a long continuance reſolv'd it ſelf into this more articulate and diſtinct voice, <q>We will live and dye with them, We will live and dye with them,</q> and the like.</p>
+            <p>So that in the managing of this dayes work, God was ſo plea<g ref="char:EOLhyphen"/>ſed to manifeſt himſelf, that the well-affected went away not ſtrengthened onely, but rejoycing; and the Malignants (as they
+<pb n="23" facs="tcp:135166:8"/>
+               <!-- PDF PAGE 48 -->have been called) ſome convinced, others ſilenced, many aſham'd; it fully appearing how little power they had to anſwer their de<g ref="char:EOLhyphen"/>ſires of doing miſchief: whileſt in ſtead of dividing the City, they were exceedingly united; in ſtead of a diſſipation, thouſands were unexpectedly brought (as it were) into an unthought of Aſſo<g ref="char:EOLhyphen"/>ciation, to live and dye in the defence of theſe zealous and honorable Aſſertors of their peace and liberties: All which we may ſumme up in that triumph of the man of God: <hi>In the thing wherein they dealt proudly, God was above them.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
